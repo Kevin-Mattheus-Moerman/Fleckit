@@ -1,0 +1,7 @@
+name = "Fleckit"
+uuid = "5221e02f-f4f0-4a70-9dc4-802d9119ebc1"
+authors = ["Kevin-Mattheus-Moerman <kevin.moerman@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+XML = "72c71f33-b9b6-44de-8c94-c961784809e2"
